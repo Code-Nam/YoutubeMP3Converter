@@ -51,7 +51,7 @@ const FormConverter = () => {
     <Form {...form}>
       <div className="flex flex-col content-center items-center text-center">
         <img 
-        src="public/assets/icons/youtube-to-MP3-icon.png" 
+        src="public/static/icons/youtube-to-MP3-icon.png" 
         alt="Logo"
         className="w-40 h-auto" />
         <h1 className="text-3xl font-bold leading-tight tracking-tighter">Youtube MP3 Converter</h1>
